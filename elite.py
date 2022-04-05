@@ -67,7 +67,7 @@ def loginsc():
 	print("\033[1;97mSilahkan login SC Saya Dulu Bang\n")
 	username = input("\033[1;96m[*] \033[1;97musername \033[1;91m: \033[1;92m")
 	password = input("\033[1;96m[*] \033[1;97mpassword \033[1;91m: \033[1;92m")
-	if username =="fii" and password =="Ganteng":
+	if username =="fii" and password =="paling ganteng":
 		print("\033[1;96m[✓] \033[1;92mLogin Berhasil")
 		time.sleep(1)
 		menu()
