@@ -39,5 +39,5 @@
 # username : fii
 
 
-# password : Ganteng
+# password : paling ganteng
 
